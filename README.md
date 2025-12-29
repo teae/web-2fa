@@ -7,3 +7,5 @@ just open below link:
 https://teae.github.io/2fa?code=yourcodehere
 
 If you don't want the URL containing secrets to be recorded by the browser, you can open the page using the following link.
+
+https://teae.github.io/2fa?private=1
