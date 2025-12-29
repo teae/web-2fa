@@ -4,8 +4,8 @@ Web-2FA is a small project that calculates two-factor authentication (2FA) direc
 How to Use
 
 just open below link:
-https://teae.github.io/2fa?code=yourcodehere
+https://teae.github.io/web-2fa?code=yourcodehere
 
 If you don't want the URL containing secrets to be recorded by the browser, you can open the page using the following link.
 
-https://teae.github.io/2fa?private=1
+https://teae.github.io/web-2fa?private=1
